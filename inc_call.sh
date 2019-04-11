@@ -2,6 +2,7 @@
 #
 # Created by Alisson Mesquita.
 # Script for collecting information from offered calls from a SIP trunk.
+# This script is just one of the ones I created according to my need. With the information you want to collect, create your fields and structure your log for submission to Graylog!
 
 # Asterisk consumed variables:
 NUM=$1          #1 CALLERID(num)        --> External Phone
